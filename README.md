@@ -1,1 +1,1 @@
-Recopilación de algunos códigos programados por mi.
+Recopilación de algunos códigos programados durante la universidad.
